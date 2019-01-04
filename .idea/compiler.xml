@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Ebay" />
         <module name="generic" />
+        <module name="macys" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11" />
