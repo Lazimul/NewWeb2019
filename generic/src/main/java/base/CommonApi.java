@@ -19,6 +19,7 @@ public class CommonApi {
         driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
         driver.navigate().to(url);
+
     }
 
     @AfterMethod
